@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Richo Albert Tio : ) <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="35"></h1>
+<h1 align="center">Hi, I'm Desy Permata Sari : ) <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="35"></h1>
 
 <!-- Tambahkan karakter anime -->
 <img align='center' src="https://media.giphy.com/media/10kABVanhwyk1y/giphy.gif" width="150" />
