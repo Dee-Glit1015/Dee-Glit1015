@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Desy Permata Sari : ) <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="35"></h1>
 
 <!-- Tambahkan karakter anime -->
-<img align='center' src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2FvaHA2eGE2aXJ1MXo2czRnamM4aHl1ZGxqcHpod29rd2F1MW01ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/de5yu652vsARnyh5x3/giphy.gif" width="150" />
+<img align='left' src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2FvaHA2eGE2aXJ1MXo2czRnamM4aHl1ZGxqcHpod29rd2F1MW01ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/de5yu652vsARnyh5x3/giphy.gif" width="200" />
 
 <p align="center">
    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FFFF&background=E8FF8500&center=true&vCenter=true&width=435&lines=Welcome+to+My+GitHub+Profile!;Front-End+Web+Developer;Informatics+Engineering+Student" alt="Typing SVG" />
@@ -44,5 +44,5 @@
    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=RichoAlbertTio&&theme=radical"/>
 </div>
 
-<img align="center" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2FvaHA2eGE2aXJ1MXo2czRnamM4aHl1ZGxqcHpod29rd2F1MW01ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/de5yu652vsARnyh5x3/giphy.gif" width="100" />
+<img align="right" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2FvaHA2eGE2aXJ1MXo2czRnamM4aHl1ZGxqcHpod29rd2F1MW01ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/de5yu652vsARnyh5x3/giphy.gif" width="200" />
 
