@@ -8,18 +8,17 @@
 </p>
 
 # About Me :
-- 📚 I’m Informatics Engineering Student at <a href="https://www.upr.ac.id/">University Palangka Raya</a>
-- 📚 I’m Web Developer Student at <a href="https://www.gamelab.id/">Gamelab Indonesia<a/>
-- 🌱 I’m currently learning about <strong>Front End Web Dev</strong>
+- 📚 I’m Informatics Engineering Graduate at <a href="https://www.itn.ac.id/">Institut Teknologi Nasional Malang</a>
+- 🌱 I’m currently learning about <strong>Back End Web Dev</strong>
    
 <img align='right' src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif" width="150" />
 
 # Education :
-#### 1. [University Palangka Raya](https://www.upr.ac.id/) | Informatic Engineering | Palangka Raya `2020-Now`
+#### 1. [Institut Teknologi Nasional Malang ](https://www.itn.ac.id/) | Informatic Engineering | Malang `2015-2019`
    - Asistant Laboratorium 
    - Member committee SAKTI
 
-#### 2. [Christian High School Palangka Raya](https://smakristenpry.sch.id/) | MIPA(Sains) | Palangka Raya `2017-2020`
+#### 2. [Senior High School 2 Banjarmasin] | MIPA(Sains) | Banjarmasin `2011-2014`
    - Committee Basketball
 
 ## How to reach me :
