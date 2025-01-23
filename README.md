@@ -32,6 +32,9 @@
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" width="42" alt="javascript logo" />
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" height="30" width="42" alt="php logo" />
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" width="42" alt="csharp logo" />
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" height="30" width="42" alt="csharp logo" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" height="30" width="42" alt="csharp logo" />
+   
 </div>
 
 ## Github Stats 📊
