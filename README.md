@@ -16,16 +16,14 @@
 # Education :
 #### 1. [Institut Teknologi Nasional Malang ](https://www.itn.ac.id/) | Informatic Engineering | Malang `2015-2019`
    - Asistant Laboratorium 
-   - Member committee SAKTI
 
 #### 2. [Senior High School 2 Banjarmasin] | MIPA(Sains) | Banjarmasin `2011-2014`
-   - Committee Basketball
 
 ## How to reach me :
 
-<a href="https://www.linkedin.com/in/richo-albert-tio/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="logo" height="30" width="40" /></a>
-<a href="https://www.instagram.com/richo_albert_tio/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="axelb2310" height="30" width="40" /></a>
-<a href="https://github.com/RichoAlbertTio/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="logo" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/desy-permata-sari-55511a203/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="logo" height="30" width="40" /></a>
+<a href="https://www.instagram.com/desyprmts_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="axelb2310" height="30" width="40" /></a>
+<a href="https://github.com/Dee-Glit1015" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="logo" height="30" width="40" /></a>
 
 ## Languages and Tools 🛠
 <div align="left">
