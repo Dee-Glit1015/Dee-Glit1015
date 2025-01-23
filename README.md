@@ -45,4 +45,4 @@
    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=RichoAlbertTio&&theme=radical"/>
 </div>
 
-<img align="center" src="[https://media.giphy.com/media/RI2C8BG0k3E2IrOiTj/giphy.gif](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2FvaHA2eGE2aXJ1MXo2czRnamM4aHl1ZGxqcHpod29rd2F1MW01ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/de5yu652vsARnyh5x3/giphy.gif)" width="100" />
+<img align="center" src="[https://media.giphy.com/media/RI2C8BG0k3E2IrOiTj/giphy.gif](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2FvaHA2eGE2aXJ1MXo2czRnamM4aHl1ZGxqcHpod29rd2F1MW01ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/de5yu652vsARnyh5x3/giphy.gif)" width="150" />
