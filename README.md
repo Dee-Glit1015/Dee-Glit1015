@@ -8,7 +8,7 @@
    
 # About Me :
 - 📚 I’m Informatics Engineering Graduate at <a href="https://www.itn.ac.id/">Institut Teknologi Nasional Malang</a>
-- 🌱 I’m currently learning about <strong>Back End Web Dev</strong>
+- 🌱 I’m currently learning about <strong>Database Administration, Software Engineering and Data Analyst</strong>
    
 <img align='right' src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif" width="150" />
 
