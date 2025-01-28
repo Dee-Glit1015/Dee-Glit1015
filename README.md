@@ -36,6 +36,9 @@
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" height="30" width="42" alt="csharp logo" />
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" height="30" width="42" alt="csharp logo" />
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" height="30" width="42" alt="csharp logo" />
-
 </div>
-
+## Github Stats 📊
+<div align="center">
+   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Dee-Glit1015&layout=compact&langs_count=8&theme=merko"/>
+   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Dee-Glit1015&layout=compact&langs_count=8&theme=shadow_red"/>
+</div>
