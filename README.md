@@ -16,7 +16,7 @@
 #### 1. [Institut Teknologi Nasional Malang](https://www.itn.ac.id/) | Informatic Engineering | Malang `2015-2019`
    - Asistant Laboratorium 
 
-#### 2. [Senior High School 2 Banjarmasin] | MIPA(Sains) | Banjarmasin `2011-2014`
+#### 2. Senior High School 2 Banjarmasin | MIPA(Sains) | Banjarmasin `2011-2014`
 
 ## How to reach me :
 
