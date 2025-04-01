@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Desy Permata Sari, S.Kom : ) <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHZ1czdmd3AyNG14dWNydmxuemEzc3M1bmtnc25kZmgzNDl2b3B4aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pzCYsPyIMUsICAAPQw/giphy.gif" width="30"></h1>
 
 <!-- Tambahkan karakter anime -->
-<img align='center' src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2FvaHA2eGE2aXJ1MXo2czRnamM4aHl1ZGxqcHpod29rd2F1MW01ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/de5yu652vsARnyh5x3/giphy.gif" width="25" />
+<img align='center' src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2FvaHA2eGE2aXJ1MXo2czRnamM4aHl1ZGxqcHpod29rd2F1MW01ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/de5yu652vsARnyh5x3/giphy.gif" width="50" />
 
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=74436C&width=435&lines=Welcome+to+My+Profile;I'm+Informatics+Engineering+Graduated;And+I'm+work+as+Admin+Service;at+PT.+Barito+Berlian+Motor" alt="Typing SVG" /></a>
@@ -44,4 +44,4 @@
 </div>
 
 
-<img align="right" src= "https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2FvaHA2eGE2aXJ1MXo2czRnamM4aHl1ZGxqcHpod29rd2F1MW01ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/de5yu652vsARnyh5x3/giphy.gif" width="25" />
+<img align="right" src= "https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2FvaHA2eGE2aXJ1MXo2czRnamM4aHl1ZGxqcHpod29rd2F1MW01ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/de5yu652vsARnyh5x3/giphy.gif" width="50" />
