@@ -63,9 +63,38 @@
 
 </div>
 
+---
+## 🏆 GitHub Trophies
+
+<div align="center">
+  
+  <img src="https://github-profile-trophy.vercel.app/?username=RichoAlbertTio&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=2&column=4"/>
+  
+</div>
+---
+
+
 ## Github Stats 📊
 <div align="center">
    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Dee-Glit1015&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Dee-Glit1015&layout=compact&langs_count=8&theme=shadow_red%22"/>
 </div>
 
+
+## 🔥 Featured Projects
+
+<div align="center">
+
+### 🚀 Coming Soon!
+*Currently working on exciting projects that will be showcased here soon.*
+
+<!-- Once you have repositories, replace this section with:
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RichoAlbertTio&repo=ACTUAL-REPO-NAME&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FFFF&text_color=FFFFFF)](https://github.com/RichoAlbertTio/ACTUAL-REPO-NAME)
+-->
+
+**💡 Project Ideas I'm Working On:**
+- 🌐 Personal Portfolio Website
+- 🎨 CSS Animation Experiments
+- 🔧 JavaScript Utility Libraries
+
+</div>
