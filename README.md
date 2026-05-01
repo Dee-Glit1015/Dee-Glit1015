@@ -12,49 +12,55 @@
   [![GitHub stars](https://img.shields.io/github/stars/RichoAlbertTio?label=Stars&style=social)](https://github.com/RichoAlbertTio)
   
 </div>
+<img align='right' src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif" width="150" />
+## 🚀 About Me :
 
-<audio controls>
-  <source src="[nama-lagu.mp3](https://open.spotify.com/track/2pOLzpYmuDlcbTJUXYkPSr)" type="audio/mpeg"> 
-</audio>
-
-
-
-# About Me :
 - 📚 I’m Informatics Engineering Graduate at <a href="https://www.itn.ac.id/">Institut Teknologi Nasional Malang</a>
 - 🌱 I’m currently learning about <strong>Database Administration, Software Engineering and Data Analyst</strong>
-   
-<img align='right' src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif" width="150" />
+- 🔭 Working on **Funding Admin**
+- 🎯 **2023 Goals**: Join Camp Data Analytics by Revou
+- ⚡ **Fun fact**: I love combining creativity with code to build amazing digital experiences!
+- 📍 **Location**: Banjarmasin, South Borneo, Indonesia
 
-# Education :
-#### 1. [Institut Teknologi Nasional Malang](https://www.itn.ac.id/) | Informatic Engineering | Malang `2015-2019`
-   - Asistant Laboratorium Jaringan Komputer
 
-#### 2. Senior High School 2 Banjarmasin | MIPA(Sains) | Banjarmasin `2011-2014`
 
 <div align="left">
-## How to reach me :
-<p>
-<a href="https://www.linkedin.com/in/desy-permata-sari-55511a203/" target="blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="logo" height="30" width="40" /></a>
-<a href="https://www.instagram.com/desyprmts_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="axelb2310" height="30" width="40" /></a>
-<a href="https://github.com/Dee-Glit1015" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="logo" height="30" width="40" /></a>
-   </p>
+  
+## 🎓 Education Journey
+
+<div align="left">
+  
+### 🏛️ [Institut Teknologi Nasional Malang](https://www.itn.ac.id/) 
+**Informatics Engineering** | *2020 - 2025* | 📍 Palangka Raya
+- 🔬 **Laboratory Assistant of Networking ** - Teach Practical Working
+### 🏫 [Senior High School 2 Banjarmasin]
+**Science Major (MIPA)** | *2011-2014* | 📍 Banjarmasin
+
 </div>
+  
+---
+
+## How to reach me :
+
+<div align="left">
+
+<p>
+  <a href="https://www.linkedin.com/in/desy-permata-sari-55511a203/" target="blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme generator/master/src/images/icons/Social/linked-in-alt.svg" alt="logo" height="30" width="40" /></a>
+  <a href="https://www.instagram.com/desyprmts_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme generator/master/src/images/icons/Social/instagram.svg" alt="axelb2310" height="30" width="40" /></a>
+  <a href="https://github.com/Dee-Glit1015" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="logo" height="30" width="40" /></a> 
+</p>
 
 
 ## Languages and Tools 🛠
-<div align="left">
-   <p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" width="42" alt="html5 logo"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" width="42" alt="css3 logo"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" width="42" alt="javascript logo" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" height="30" width="42" alt="php logo" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height="30" width="42" alt="php logo" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" height="30" width="42" alt="php logo" /> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" width="42" alt="csharp logo" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" height="30" width="42" alt="csharp logo" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" height="30" width="42" alt="csharp logo" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" height="30" width="42" alt="csharp logo" />
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+  <img src="https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="SASS" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
 </p>
+
 </div>
 
 ## Github Stats 📊
@@ -63,5 +69,3 @@
    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Dee-Glit1015&layout=compact&langs_count=8&theme=shadow_red%22"/>
 </div>
 
-
-<img align="right" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2FvaHA2eGE2aXJ1MXo2czRnamM4aHl1ZGxqcHpod29rd2F1MW01ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/de5yu652vsARnyh5x3/giphy.gif" width="50" />
