@@ -18,15 +18,18 @@
 
 #### 2. Senior High School 2 Banjarmasin | MIPA(Sains) | Banjarmasin `2011-2014`
 
-<div align="left">
-## How to reach me :
 
+## How to reach me :
+<div align="left">
 <a href="https://www.linkedin.com/in/desy-permata-sari-55511a203/" target="blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="logo" height="30" width="40" /></a>
 <a href="https://www.instagram.com/desyprmts_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="axelb2310" height="30" width="40" /></a>
 <a href="https://github.com/Dee-Glit1015" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="logo" height="30" width="40" /></a>
+   
+</div>
+
 
 ## Languages and Tools 🛠
-<p>
+<div align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" width="42" alt="html5 logo"/> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" width="42" alt="css3 logo"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" width="42" alt="javascript logo" />
@@ -37,7 +40,6 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" height="30" width="42" alt="csharp logo" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" height="30" width="42" alt="csharp logo" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" height="30" width="42" alt="csharp logo" />
-</p>
 
 </div>
 
