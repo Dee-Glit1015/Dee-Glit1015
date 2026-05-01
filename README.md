@@ -103,3 +103,37 @@
 </div>
 
 ---
+
+## 📅 Weekly Development Breakdown
+
+<!--START_SECTION:waka-->
+```text
+JavaScript   8 hrs 35 mins   ████████████░░░░░░░░░░░░░   48.2%
+HTML         3 hrs 22 mins   ███████░░░░░░░░░░░░░░░░░░   18.9%
+CSS          2 hrs 41 mins   ██████░░░░░░░░░░░░░░░░░░░   15.1%
+PHP          1 hr 48 mins    ███░░░░░░░░░░░░░░░░░░░░░░   10.2%
+Other        1 hr 22 mins    ██░░░░░░░░░░░░░░░░░░░░░░░    7.6%
+```
+<!--END_SECTION:waka-->
+
+---
+## 🎯 Current Focus
+
+- 🔥 **Building**: Modern responsive web applications
+- 📚 **Learning**: React.js, TypeScript, and advanced CSS animations  
+- 🎨 **Exploring**: UI/UX design principles and user experience optimization
+- 🤝 **Contributing**: Open source projects and community initiatives
+
+---
+
+<div align="center">
+  
+  ### 💫 Thanks for visiting my profile! Let's build something amazing together! 
+  
+  <img src="https://media.giphy.com/media/RI2C8BG0k3E2IrOiTj/giphy.gif" width="120" />
+  
+  ---
+  
+  <p>⭐️ From <a href="https://github.com/Dee-Glit1015">Desy Permata Sari </a> with ❤️</p>
+  
+</div>
