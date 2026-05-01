@@ -26,12 +26,12 @@
 
 ## Languages and Tools 🛠
 <div align="left">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" width="42" alt="html5 logo" />
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" width="42" alt="html5 logo" />
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" width="42" alt="css3 logo" />
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" width="42" alt="javascript logo" />
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" height="30" width="42" alt="php logo" />
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height="30" width="42" alt="php logo" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" height="30" width="42" alt="php logo" />
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" height="30" width="42" alt="php logo" />
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" width="42" alt="csharp logo" />
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" height="30" width="42" alt="csharp logo" />
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" height="30" width="42" alt="csharp logo" />
@@ -39,9 +39,9 @@
 </div>
 ## Github Stats 📊
 <div align="center">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Dee-Glit1015&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Dee-Glit1015&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Dee-Glit1015&layout=compact&langs_count=8&theme=shadow_red%22"/>
 </div>
 
 
-<img align="right" src= "https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2FvaHA2eGE2aXJ1MXo2czRnamM4aHl1ZGxqcHpod29rd2F1MW01ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/de5yu652vsARnyh5x3/giphy.gif" width="50" />
+<img align="right" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2FvaHA2eGE2aXJ1MXo2czRnamM4aHl1ZGxqcHpod29rd2F1MW01ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/de5yu652vsARnyh5x3/giphy.gif" width="50" />
