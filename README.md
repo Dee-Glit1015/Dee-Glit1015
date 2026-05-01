@@ -40,16 +40,6 @@
   
 ---
 
-## How to reach me :
-
-<div align="left">
-
-<p>
-  <a href="https://www.linkedin.com/in/desy-permata-sari-55511a203/" target="blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme generator/master/src/images/icons/Social/linked-in-alt.svg" alt="logo" height="30" width="40" /></a>
-  <a href="https://www.instagram.com/desyprmts_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme generator/master/src/images/icons/Social/instagram.svg" alt="axelb2310" height="30" width="40" /></a>
-  <a href="https://github.com/Dee-Glit1015" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="logo" height="30" width="40" /></a> 
-</p>
-
 
 ## Languages and Tools 🛠
 <p>
@@ -80,10 +70,11 @@
    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Dee-Glit1015&layout=compact&langs_count=8&theme=shadow_red%22"/>
 </div>
 
+---
 
 ## 🔥 Featured Projects
 
-<div align="center">
+<div align="left">
 
 ### 🚀 Coming Soon!
 *Currently working on exciting projects that will be showcased here soon.*
@@ -93,8 +84,22 @@
 -->
 
 **💡 Project Ideas I'm Working On:**
-- 🌐 Personal Portfolio Website
-- 🎨 CSS Animation Experiments
-- 🔧 JavaScript Utility Libraries
+🌐 Personal Portfolio Website
+🎨 CSS Animation Experiments
+🔧 JavaScript Utility Libraries
 
 </div>
+---
+
+## 💼 Connect With Me
+
+<div align="center">
+  
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/richo-albert-tio/)
+  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/richo_albert_tio/)
+  [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RichoAlbertTio/)
+  [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
+  
+</div>
+
+---
