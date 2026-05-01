@@ -5,6 +5,19 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=B6198E&width=435&lines=Welcome+To+My+Profile;I'm+Informatics+Engineering+Graduate+;And+I'm+Work+as+Service+Admin+Ever;At+PT.+Barito+Berlian+Motor;And+Now+I+Work+;at+PT.Permodalan+Nasional+Madani;As+Account+Officer" alt="Typing SVG" /></a>
 </p>
 
+<div align="center">
+  
+  [![Profile Views](https://komarev.com/ghpvc/?username=RichoAlbertTio&color=blueviolet&style=flat-square&label=Profile+Views)](https://github.com/RichoAlbertTio)
+  [![GitHub followers](https://img.shields.io/github/followers/RichoAlbertTio?label=Followers&style=social)](https://github.com/RichoAlbertTio)
+  [![GitHub stars](https://img.shields.io/github/stars/RichoAlbertTio?label=Stars&style=social)](https://github.com/RichoAlbertTio)
+  
+</div>
+
+<audio controls>
+  <source src="[nama-lagu.mp3](https://open.spotify.com/track/2pOLzpYmuDlcbTJUXYkPSr)" type="audio/mpeg"> 
+</audio>
+
+
 
 # About Me :
 - 📚 I’m Informatics Engineering Graduate at <a href="https://www.itn.ac.id/">Institut Teknologi Nasional Malang</a>
