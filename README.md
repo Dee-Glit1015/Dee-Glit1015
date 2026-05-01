@@ -4,6 +4,8 @@
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=B6198E&width=435&lines=Welcome+To+My+Profile;I'm+Informatics+Engineering+Graduate+;And+I'm+Work+as+Service+Admin+Ever;At+PT.+Barito+Berlian+Motor;And+Now+I+Work+;at+PT.Permodalan+Nasional+Madani;As+Account+Officer" alt="Typing SVG" /></a>
 </p>
+
+
 # About Me :
 - 📚 I’m Informatics Engineering Graduate at <a href="https://www.itn.ac.id/">Institut Teknologi Nasional Malang</a>
 - 🌱 I’m currently learning about <strong>Database Administration, Software Engineering and Data Analyst</strong>
