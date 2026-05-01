@@ -18,6 +18,7 @@
 
 #### 2. Senior High School 2 Banjarmasin | MIPA(Sains) | Banjarmasin `2011-2014`
 
+<div align="left">
 ## How to reach me :
 
 <a href="https://www.linkedin.com/in/desy-permata-sari-55511a203/" target="blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="logo" height="30" width="40" /></a>
@@ -37,6 +38,8 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" height="30" width="42" alt="csharp logo" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" height="30" width="42" alt="csharp logo" />
 </p>
+
+</div>
 
 ## Github Stats 📊
 <div align="center">
