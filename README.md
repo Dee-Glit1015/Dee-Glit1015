@@ -31,7 +31,7 @@
 <div align="left">
   
 ### 🏛️ [Institut Teknologi Nasional Malang](https://www.itn.ac.id/) 
-**Informatics Engineering** | *2020 - 2025* | 📍 Malang
+**Informatics Engineering** | *2015 - 2019* | 📍 Malang
 - 🔬 **Laboratory Assistant of Networking ** - Teach Practical Working
 ### 🏫 [Senior High School 2 Banjarmasin]
 **Science Major (MIPA)** | *2011-2014* | 📍 Banjarmasin
